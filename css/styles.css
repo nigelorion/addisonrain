@@ -1,1 +1,19 @@
+.hero-body {
+  text-align: center;
+}
 
+body {
+  background-color: white;
+}
+
+p {
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 10%;
+  text-align: center;
+  padding-bottom: 40%;
+}
+
+.column {
+  padding-bottom: 40%;
+}
